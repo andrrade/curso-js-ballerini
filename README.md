@@ -23,10 +23,17 @@
 
 ## 📂 Projetos
 
-<a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 01</a>
-<a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 02</a>
-<a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 03</a>
-
+<ul>
+  <li>
+    <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 01</a>
+  </li>
+  <li>
+    <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 02</a>
+  </li>
+  <li>
+    <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 03</a>
+  </li>
+</ul>
 ---
 
 ## 🚀 Tecnologias
@@ -36,7 +43,6 @@ Esses projetos foram desenvolvidos utilizando:
 - HTML
 - CSS
 - JS
-
 
 ## 📝 Licença
 
@@ -49,4 +55,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 <p align="center">
   <img alt="Logo da Rafaella Ballerini" src="https://github.com/user-attachments/assets/7508bdf8-41d5-4365-bd24-102f718fde8a" width="300px" />
 </p>
-
