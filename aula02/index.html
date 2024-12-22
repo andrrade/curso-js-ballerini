@@ -6,13 +6,20 @@
     <title>Lista de Tarefas</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
     <div class="container">
       <h1>Lista de Tarefas</h1>
       <p>Adicione suas tarefas!</p>
-      <input type="text" id="inpTarefa" placeholder="Digite a sua tarefa" />
+      <input
+        type="text"
+        id="inpTarefa"
+        placeholder="Digite a sua tarefa"
+        autofocus
+      />
       <button onclick="adicionarTarefa()">Adicionar tarefa</button>
       <p id="msg"></p>
+      <ul id="listaTarefas"></ul>
     </div>
 
     <script src="script.js"></script>
