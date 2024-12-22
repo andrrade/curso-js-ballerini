@@ -34,7 +34,6 @@
     <a href="https://curso-js-ballerini-aula03.vercel.app/" target="_blank">Aula 03</a>
   </li>
 </ul>
----
 
 ## 🚀 Tecnologias
 
