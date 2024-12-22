@@ -9,7 +9,7 @@
 ## 📂 Projeto
 
 <p align="center">
-  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/5a4a3c7d-f26d-40d1-bc98-316a6c18e6e7" width="800px">
+  <img alt="Projeto Aula 03" src="" width="800px">
 </p>
 
 ## 🔗 Link do Projeto

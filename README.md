@@ -23,8 +23,9 @@
 
 ## 📂 Projetos
 
-Para acessar o projeto da Aula 01 <a href="" target="_blank">Clique Aqui</a>.
-
+<a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 01</a>
+<a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 02</a>
+<a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 03</a>
 
 ---
 

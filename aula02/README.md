@@ -9,12 +9,12 @@
 ## 📂 Projeto
 
 <p align="center">
-  <img alt="Projeto para PC" src="https://curso-js-ballerini-aula02.vercel.app/" width="800px">
+  <img alt="Projeto Aula 02" src="https://github.com/user-attachments/assets/09258da3-088a-4def-a7f3-263228c9a7de" width="800px">
 </p>
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Clique Aqui</a>.
+Para acessar o projeto <a href="https://curso-js-ballerini-aula02.vercel.app/" target="_blank">Clique Aqui</a>.
 
 <br>
 
