@@ -28,10 +28,10 @@
     <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 01</a>
   </li>
   <li>
-    <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 02</a>
+    <a href="https://curso-js-ballerini-aula02.vercel.app/" target="_blank">Aula 02</a>
   </li>
   <li>
-    <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Aula 03</a>
+    <a href="https://curso-js-ballerini-aula03.vercel.app/" target="_blank">Aula 03</a>
   </li>
 </ul>
 ---
