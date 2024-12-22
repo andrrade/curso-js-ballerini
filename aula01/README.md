@@ -1,25 +1,10 @@
 <h1 align="center">
-  <img alt="Logo" src="https://github.com/user-attachments/assets/9bf0460c-7f00-4f78-8826-705b75c470d0" width="170px">
+  <img alt="Logo" src="https://github.com/user-attachments/assets/9fc91351-f51e-4449-a610-b3cd6e17c6a9" width="170px">
 </h1>
 
 <p align="center">
-  Aula 01 do curso de JavaScript da Rafaella Balerini
+  Aula 01 do curso de JavaScript da Rafaella Ballerini
 </p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-link-do-projeto">Link do Projeto</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
-</p>
-
-<br>
-
----
 
 ## 📂 Projeto
 
@@ -27,23 +12,9 @@
   <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/5a4a3c7d-f26d-40d1-bc98-316a6c18e6e7" width="800px">
 </p>
 
----
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido utilizando:
-
-- HTML
-- CSS
-- JS
-
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="" target="_blank">Clique Aqui</a>.
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Para acessar o projeto <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank">Clique Aqui</a>.
 
 <br>
 
