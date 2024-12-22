@@ -50,5 +50,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 ---
 
 <p align="center">
-  <img alt="Logo da Rafaella Ballerini" src="image.png" width="300px" />
+  <img alt="Logo da Rafaella Ballerini" src="https://github.com/user-attachments/assets/7508bdf8-41d5-4365-bd24-102f718fde8a" width="300px" />
 </p>
